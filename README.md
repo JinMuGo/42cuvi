@@ -1,2 +1,2 @@
 # 42cuvi
-42cursus visualization
+42cursus visualiser library
